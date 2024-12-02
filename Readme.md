@@ -41,8 +41,8 @@ The dataset used for this project can be downloaded from Kaggle:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/glucose-level-prediction.git
-    cd glucose-level-prediction
+    git clone https://github.com/SheemaMasood381/Blood-Glucose-Levels-Prediction-2024-kaggle-competition.git
+    cd Blood-Glucose-Levels-Prediction-2024-kaggle-competition
     ```
 
 2. Install the required Python packages:
